@@ -29,3 +29,6 @@ Data labels are:
 - EXPERIMENT-DATA TYPE (20-25RPM)
 
 The fine-tuned model exhibited high accuracy for the ITEM tag when tested on previously unseen papers with F1-Score about 95% and precision 94% and recall 95%. Future endeavors include expanding and diversifying the dataset to improve prediction on EXPERIMENT tag and generalize the predictions, implementing an API for streamlined predictions in JSON format, integrating a PDF parser for improved text extraction from PDF files, and enhancing labeling through detailed item categorization. This work underscores a systematic and thorough approach to advancing NLP capabilities in scientific contexts, with potential applications in various domains.
+
+
+![Items-Lists generator workflow](https://github.com/Abdelrahman4983/Replication-system-demonstration/assets/96976680/534cf582-0806-43ac-8fec-219caa12e4cf)
